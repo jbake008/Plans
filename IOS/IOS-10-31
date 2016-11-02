@@ -1,0 +1,23 @@
+
+IOS-10-31
+
+MATH CLASS CONTINUED
+
+Reasearched ways to perform multiple operations in a row. Will attempt to
+implement these methods to create multiple operation functionality.
+
+DESIGN: 
+  Black background -> White background
+                   -> All GUI elements black/blue color
+
+Create functionality to perform multiple operations from a user generated one
+line of entered text. 
+EX: 5+7/5*89
+Function will perform the operations in the order entered. 
+If addition is before multiplication, addition will be performed first. (No PEMDAS)
+
+
+IOS-9-24 Continuing Multiple Operations
+IOS-9-17 Program has the functionality to perform two digit operation
+IOS-9-10 Program has the functionality to determine numbers from mathmatical operators
+IOS-9-3 Single digit mathematical operations working.
