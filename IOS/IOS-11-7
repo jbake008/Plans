@@ -1,0 +1,23 @@
+
+
+IOS-11-7
+
+MATH CLASS
+Create functionality to perform multiple operations from a user generated one
+line of entered text. 
+EX: 5+7/5*89
+Function will perform the operations in the order entered. 
+If addition is before multiplication, addition will be performed first. (No PEMDAS)
+
+TRIVIA CLASS
+- program will have a trivia mode that will give a random question on a button press.
+- User will attempt to answer question in head, when ready for answer, press the answer button and
+  receive the corresponding answer to the question asked.
+
+
+
+IOS-10-31 Design changed to white background, blue buttons. Researched for multiple operations. Trivia Class Created
+IOS-10-24 Continuing Multiple Operations
+IOS-10-17 Program has the functionality to perform two digit operation
+IOS-9-10 Program has the functionality to determine numbers from mathmatical operators
+IOS-9-3 Single digit mathematical operations working.
